@@ -10,10 +10,9 @@ rvm:
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
-username: john.doe@example.com
-password:
-secure: your encryped password determined by the travis gem=
-organization: john_doe_example_com
-space: hell
+username: girish.damodar@gmail.com
+password:Calmis#12
+organization: girish_damodar_gmail_com
+space: test
 on:
 repo: anynines/ruby-sinatra-example-app
