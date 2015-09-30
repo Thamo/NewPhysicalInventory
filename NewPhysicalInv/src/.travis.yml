@@ -11,9 +11,8 @@ rvm:
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
-username: john.doe@example.com
-password:
-secure: your encryped password determined by the travis gem=
+username: girish.damodar@gmail.com
+password:Calmis#12
 organization: john_doe_example_com
 space: hell
 on:
