@@ -14,10 +14,11 @@
   <groupId>yl</groupId>
   <artifactId>raj</artifactId>
   <version>0.1</version>
+ 
  				<configuration> 
  					<archive> 
  						<manifest> 
- 							<mainClass>src.main.java.yl.raj.App</mainClass> 
+ 							<mainClass>src.DisplayPR</mainClass> 
  						</manifest> 
  					</archive> 
  				</configuration> 
