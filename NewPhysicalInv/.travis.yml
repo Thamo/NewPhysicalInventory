@@ -8,12 +8,13 @@ rvm:
 # script: bundle exec rspec spec
 
 
+language: java
 deploy:
-provider: cloudfoundry
-target: https://api.de.a9s.eu
-username: girish.damodar@gmail.com
-password:Calmis#12
-organization: john_doe_example_com
-space: hell
-on:
-repo: anynines/ruby-sinatra-example-app
+  edge: true
+  provider: cloudfoundry  
+  username: talk2jamesraj@yahoo.com
+  password: sacsb4u!
+  api: https://api.run.pivotal.io
+  organization: letustry
+  space: development
+repo: https://github.com/Thamo/NewPhysicalInv.git
