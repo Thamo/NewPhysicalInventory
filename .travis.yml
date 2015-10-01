@@ -1,5 +1,4 @@
 language: java
-
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
