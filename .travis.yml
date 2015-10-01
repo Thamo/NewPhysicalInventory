@@ -1,5 +1,5 @@
 language: java
-skip_cleanup
+
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
@@ -8,4 +8,4 @@ password: Calmis\#12
 organization: girish_damodar_gmail_com
 space: test
 sudo: required
- 
+
