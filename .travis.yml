@@ -1,9 +1,10 @@
 language: java
 deploy:
+ edge: true
 provider: cloudfoundry
 target: https://api.de.a9s.eu
 username: girish.damodar@gmail.com
 password: Calmis\#12
 organization: girish_damodar_gmail_com
 space: test
- 
+
