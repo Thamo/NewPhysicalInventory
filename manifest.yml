@@ -1,0 +1,6 @@
+# The only mandatory fields are name and path for simple Java web apps. 
+
+applications: 
+- name: techToolProj
+  path: techToolProj.war
+
