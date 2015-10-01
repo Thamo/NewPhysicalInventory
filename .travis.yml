@@ -8,3 +8,5 @@ organization: girish_damodar_gmail_com
 space: test
 sudo: required
 
+on:
+repo: anynines/NewPhysicalInventory
