@@ -1,4 +1,5 @@
 language: java
+skip_cleanup
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
