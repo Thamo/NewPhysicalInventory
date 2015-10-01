@@ -1,11 +1,9 @@
 
-
+language: java
 deploy:
 provider: cloudfoundry
 target: https://api.de.a9s.eu
-username: girish.damodar@gmail.com
+username : girish.damodar@gmail.com
 password:Calmis#12
 organization: girish_damodar_gmail_com
 space: test
-on:
-repo: anynines/ruby-sinatra-example-app
